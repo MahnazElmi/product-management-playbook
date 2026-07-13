@@ -1,9 +1,19 @@
-# My First Repository
+# PM Playbook
 
-This repository contains my open source work and learning projects.
+A curated collection of practical frameworks, templates, and checklists for Product Managers.
 
-## About
+## What's inside
 
-I'm a Product Manager interested in AI, Product Strategy, SEO, and automation.
+- OKR Templates
+- GTM Frameworks
+- Product Metrics
+- Technical SEO
+- Event Tracking
+- Product Discovery
+- AI Prompts for PMs
 
-More projects will be added soon.
+## Goal
+
+This repository helps Product Managers build better products by sharing reusable templates and practical resources.
+
+Contributions are welcome.
